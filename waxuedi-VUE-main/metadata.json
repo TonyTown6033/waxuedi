@@ -1,0 +1,5 @@
+{
+  "name": "Admin Pro Dashboard",
+  "description": "A professional React admin dashboard with simulated Captcha login, Admin CRUD management, and Organization hierarchy.",
+  "requestFramePermissions": []
+}
